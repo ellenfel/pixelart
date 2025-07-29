@@ -1,5 +1,3 @@
-Of course! It's great that you're diving into creating your own art for your game. Here is a roadmap to help you get started with Aseprite and contribute to the visual style of your top-down fantasy video game. 
-
  ### **Phase 1: Foundations of Pixel Art & Aseprite** 
 
  This initial phase is all about getting comfortable with the tools and the fundamental concepts of pixel art. 
@@ -84,6 +82,3 @@ Of course! It's great that you're diving into creating your own art for your gam
  *   **Use References:** Don't be afraid to use reference images to help you create your art. 
  *   **Study Other Artists:** Look at the pixel art in other games you admire. Try to understand how they achieved their style. 
  *   **Start with Edits:** A great way to learn is by taking existing sprites and making small edits to them, like changing the color of an outfit or adjusting the lighting. 
- *   **Have Fun!** The most important thing is to enjoy the process of creating art for your game. 
-
- By following this roadmap, you'll be well on your way to creating beautiful and unique art for your top-down fantasy game. Good luck
